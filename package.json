@@ -1,0 +1,35 @@
+{
+  "name": "seleniumdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjdefrank/SeleniumDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjdefrank/SeleniumDemo/issues"
+  },
+  "homepage": "https://github.com/mjdefrank/SeleniumDemo#readme",
+  "dependencies": {
+    "selenium": "^2.20.0"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^5.18.7",
+    "@wdio/local-runner": "^5.18.7",
+    "@wdio/mocha-framework": "^5.18.7",
+    "@wdio/selenium-standalone-service": "^5.16.10",
+    "@wdio/spec-reporter": "^5.18.7",
+    "@wdio/sync": "^5.18.7",
+    "chromedriver": "^80.0.1",
+    "selenium-standalone": "^6.17.0",
+    "wdio-chromedriver-service": "^5.0.2",
+    "webdriverio": "^5.19.0"
+  },
+  "keywords": [],
+  "description": ""
+}
